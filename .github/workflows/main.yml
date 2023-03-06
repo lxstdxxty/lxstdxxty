@@ -18,7 +18,6 @@ jobs:
           # Options
           config_order: base.header, activity, community, repositories, habits, languages, isocalendar, lines
           plugin_habits: yes
-          plugin_activity: yes
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_isocalendar: yes
